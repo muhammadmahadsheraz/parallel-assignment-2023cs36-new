@@ -1,0 +1,47 @@
+# Compiled binaries
+sequential/dijkstra
+parallel/dijkstra_parallel
+*.o
+*.out
+*.exe
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Output files
+/tmp/
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# Backup files
+*.bak
+*.backup
+
+# OS files
+Thumbs.db
+desktop.ini
+
+# Experiment outputs (keep the template, ignore collected data)
+results/timing_data_collected.csv
+results/*_output_*.txt
+
+# Report drafts (keep final PDF)
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
+report/*_draft.*
