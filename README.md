@@ -1,8 +1,8 @@
 # Parallel Assignment: Dijkstra's Shortest Path Algorithm
 
 ## Student Information
-- Name: [Your Name]
-- Roll Number: [Your Roll Number]
+- Name: Muhammad Mahad Sheraz
+- Roll Number: 2023-CS-36
 - Course: Parallel and Distributed Computing
 - Instructor: Waqas Ali
 
